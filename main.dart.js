@@ -7760,7 +7760,7 @@ $.aE7().aks(null,new A.azB(),null,!1,!1,B.Zl,t.YR,s,s)},
 azB:function azB(){},
 v6:function v6(a){this.a=a},
 aUR(a,b,c,d){A.aGe(new A.ak0(a,d,b),t.P)},
-aUS(a,b,c){A.aUR("http://localhost:3000/api/v1/menu/restaurant/"+a,new A.ajX(b),!1,new A.ajY(c,b))},
+aUS(a,b,c){A.aUR("https://foodway-api.vercel.app/api/v1/menu/restaurant/"+a,new A.ajX(b),!1,new A.ajY(c,b))},
 ak0:function ak0(a,b,c){this.a=a
 this.b=b
 this.c=c},
