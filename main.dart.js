@@ -46294,7 +46294,7 @@ p=A.MF(p,o.h(0,s)!=null&&J.bj(o.h(0,s)).length!==0?A.vL(J.bj(o.h(0,s)),new A.abB
 o=J.aP2(J.aN(o.h(0,q)),15)?J.aPi(o.h(0,q),0,15)+"...":o.h(0,q)
 return A.aY(r,A.fQ(!1,r,!0,A.c0(A.b([p,B.e7,A.ah(o,r,r,r,A.aA(r,r,B.R,r,r,r,r,r,r,r,r,14,r,r,B.L,r,r,!0,r,r,r,r,r,r,r,r),B.aY,r)],t.p),B.q,B.t,B.o),r,!0,r,r,r,r,r,r,r,r,r,this.d,r,r,r,r,r),B.l,r,r,r,r,r,B.is,r,r,r,r)}}
 A.abB.prototype={
-$3(a,b,c){return A.dH("images/dish.png",null,B.aL,85,85)},
+$3(a,b,c){return A.dH("assets/images/dish.png",null,B.aL,85,85)},
 $S:71}
 A.C6.prototype={
 N(a){var s=A.aSz(a,t.er),r=A.b9(a,B.B,t.J)
@@ -46328,7 +46328,7 @@ q=A.l(g.h(h,"price"))
 p=t.p
 return A.aY(o,A.fQ(!1,j,!0,A.i4(B.oT,A.b([i,s,A.mU(16,A.c0(A.b([r,B.bS,A.bP(A.b([A.ah(q+" MZN",o,o,o,A.aA(o,o,B.v,o,o,o,o,o,o,o,o,l?18:24,o,o,B.L,o,o,!0,o,o,o,o,o,o,o,o),B.aY,o),B.bb,A.dC(A.ah(g.h(h,"type"),1,B.bW,o,A.aA(o,o,B.j,o,o,o,o,o,o,o,o,11,o,o,o,o,o,!0,o,o,o,o,o,o,o,o),B.dr,o),1,o)],p),B.q,B.t,B.o)],p),B.ah,B.t,B.o),o,o,16,16,o,o)],p),B.X,B.bK),o,!0,o,o,o,o,o,o,o,o,o,this.d,o,o,o,o,o),B.l,o,o,o,o,o,B.fP,o,o,o,o)}}
 A.alR.prototype={
-$3(a,b,c){return A.dH("images/dish.png",null,B.aL,this.a,17976931348623157e292)},
+$3(a,b,c){return A.dH("assets/images/dish.png",null,B.aL,this.a,17976931348623157e292)},
 $S:71}
 A.w9.prototype={
 N(a){var s,r,q="image",p=null,o="name",n=A.bF(10),m=this.c
@@ -46337,7 +46337,7 @@ s=J.aP2(J.aN(m.h(0,o)),20)?J.aPi(m.h(0,o),0,20)+"...":m.h(0,o)
 r=t.p
 return A.aY(p,A.fQ(!1,p,!0,A.c0(A.b([n,B.e7,A.ah(s,p,p,p,A.aA(p,p,B.R,p,p,p,p,p,p,p,p,18,p,p,B.L,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),B.bS,A.bP(A.b([A.ah(m.h(0,"type"),p,p,p,A.aA(p,p,B.J,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),A.ah(" . ",p,p,p,A.aA(p,p,B.v,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),A.ah(m.h(0,"food_type"),p,p,p,A.aA(p,p,B.J,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),B.bb,B.o0,A.ah(J.bj(m.h(0,"price"))+"MZN",p,p,p,A.aA(p,p,B.v,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p)],r),B.q,B.t,B.o)],r),B.ah,B.t,B.o),p,!0,p,p,p,p,p,p,p,p,p,this.d,p,p,p,p,p),B.l,p,p,p,p,p,B.is,p,p,p,p)}}
 A.am7.prototype={
-$3(a,b,c){return A.dH("images/dish.png",null,B.aL,130,220)},
+$3(a,b,c){return A.dH("assets/images/dish.png",null,B.aL,130,220)},
 $S:71}
 A.ar7.prototype={
 J(){return"RoundButtonType."+this.b}}
