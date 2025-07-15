@@ -46290,7 +46290,7 @@ $1(a){this.a.$1(a)},
 $S:39}
 A.uO.prototype={
 N(a){var s="image",r=null,q="name",p=A.bF(10),o=this.c
-p=A.MF(p,o.h(0,s)!=null&&J.bj(o.h(0,s)).length!==0?A.vL(J.bj(o.h(0,s)),new A.abB(),B.aL,85,r,85):A.dH("image/dish.png",r,B.aL,85,85))
+p=A.MF(p,o.h(0,s)!=null&&J.bj(o.h(0,s)).length!==0?A.vL(J.bj(o.h(0,s)),new A.abB(),B.aL,85,r,85):A.dH("assets/images/dish.png",r,B.aL,85,85))
 o=J.aP2(J.aN(o.h(0,q)),15)?J.aPi(o.h(0,q),0,15)+"...":o.h(0,q)
 return A.aY(r,A.fQ(!1,r,!0,A.c0(A.b([p,B.e7,A.ah(o,r,r,r,A.aA(r,r,B.R,r,r,r,r,r,r,r,r,14,r,r,B.L,r,r,!0,r,r,r,r,r,r,r,r),B.aY,r)],t.p),B.q,B.t,B.o),r,!0,r,r,r,r,r,r,r,r,r,this.d,r,r,r,r,r),B.l,r,r,r,r,r,B.is,r,r,r,r)}}
 A.abB.prototype={
@@ -46320,7 +46320,7 @@ return A.b([n,r,A.aMr(A.bP(o,B.q,B.t,B.o),"zh",s)],t.Do)},
 $S:311}
 A.mA.prototype={
 N(a){var s,r,q,p,o=null,n="image",m=17976931348623157e292,l=A.c1(a,o,t.l).w.a.a>600,k=l?180:200,j=A.bF(12),i=A.bF(12),h=this.c,g=J.aa(h)
-i=A.MF(i,g.h(h,n)!=null&&J.bj(g.h(h,n)).length!==0?A.vL(J.bj(g.h(h,n)),new A.alR(k),B.aL,k,o,m):A.dH("image/dish.png",o,B.aL,k,m))
+i=A.MF(i,g.h(h,n)!=null&&J.bj(g.h(h,n)).length!==0?A.vL(J.bj(g.h(h,n)),new A.alR(k),B.aL,k,o,m):A.dH("assets/images/dish.png",o,B.aL,k,m))
 s=A.aY(o,o,B.l,o,o,new A.bc(o,o,o,A.bF(12),o,B.Rc,B.A),o,k,o,o,o,o,m)
 r=g.h(h,"name")
 r=A.ah(r,1,B.bW,o,A.aA(o,o,B.j,o,o,o,o,o,o,o,o,l?16:18,o,o,B.L,o,o,!0,o,o,o,o,o,o,o,o),B.dr,o)
@@ -46332,7 +46332,7 @@ $3(a,b,c){return A.dH("assets/images/dish.png",null,B.aL,this.a,1797693134862315
 $S:71}
 A.w9.prototype={
 N(a){var s,r,q="image",p=null,o="name",n=A.bF(10),m=this.c
-n=A.MF(n,m.h(0,q)!=null&&J.bj(m.h(0,q)).length!==0?A.vL(J.bj(m.h(0,q)),new A.am7(),B.aL,130,p,220):A.dH("image/dish.png",p,B.aL,130,220))
+n=A.MF(n,m.h(0,q)!=null&&J.bj(m.h(0,q)).length!==0?A.vL(J.bj(m.h(0,q)),new A.am7(),B.aL,130,p,220):A.dH("assets/images/dish.png",p,B.aL,130,220))
 s=J.aP2(J.aN(m.h(0,o)),20)?J.aPi(m.h(0,o),0,20)+"...":m.h(0,o)
 r=t.p
 return A.aY(p,A.fQ(!1,p,!0,A.c0(A.b([n,B.e7,A.ah(s,p,p,p,A.aA(p,p,B.R,p,p,p,p,p,p,p,p,18,p,p,B.L,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),B.bS,A.bP(A.b([A.ah(m.h(0,"type"),p,p,p,A.aA(p,p,B.J,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),A.ah(" . ",p,p,p,A.aA(p,p,B.v,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),A.ah(m.h(0,"food_type"),p,p,p,A.aA(p,p,B.J,p,p,p,p,p,p,p,p,12,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),B.bb,B.o0,A.ah(J.bj(m.h(0,"price"))+"MZN",p,p,p,A.aA(p,p,B.v,p,p,p,p,p,p,p,p,16,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p)],r),B.q,B.t,B.o)],r),B.ah,B.t,B.o),p,!0,p,p,p,p,p,p,p,p,p,this.d,p,p,p,p,p),B.l,p,p,p,p,p,B.is,p,p,p,p)}}
