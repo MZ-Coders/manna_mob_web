@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"flutter_bootstrap.js": "e56d9e50a216e97761b13033038fbcd4",
+const RESOURCES = {"flutter_bootstrap.js": "95434f01d536e78380f2a563e6ff1233",
 "version.json": "72ad31436127869b4e30d934215f76ef",
 "index.html": "9f10543833a538fbebb5297f33498a09",
 "/": "9f10543833a538fbebb5297f33498a09",
-"main.dart.js": "7376c7aa8ea5ab0f6942252dfb35ec48",
+"main.dart.js": "a072291d007e765a0166a152dd3ba9bd",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -22,7 +22,7 @@ const RESOURCES = {"flutter_bootstrap.js": "e56d9e50a216e97761b13033038fbcd4",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/AssetManifest.bin": "5f05b9133d9c01fed842e5d5393a8444",
-"assets/fonts/MaterialIcons-Regular.otf": "f722d6c4c07e8215041c00a2f9f6648d",
+"assets/fonts/MaterialIcons-Regular.otf": "ccbdc20b0828777883ac77cabed48462",
 "assets/assets/manna_software__.png": "f5049bcd4f9e52852c34d2dd9cbc26bb",
 "assets/assets/recipes.json": "90ae65753bbd3f774017775ba064b7d3",
 "assets/assets/images/spaghetti.png": "f3b0f84e872e3afd319cca935e180e21",
